@@ -1175,6 +1175,9 @@ background-size: 100%;
     .book-a-table form{
         padding: 0 20px
       }
+	.preloader {
+	display:none;
+	}
       
       
 }
